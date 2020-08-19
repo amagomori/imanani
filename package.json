@@ -37,7 +37,7 @@
     "blacklist": "^1.1.4",
     "bootstrap-toggle": "^2.2.2",
     "deep-object-diff": "^1.1.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "react": "^16.8.4",
     "react-bootstrap": "^0.32.1",
