@@ -74,7 +74,7 @@
     "jshint": "^2.10.1",
     "mocha": "^6.0.2",
     "mock-local-storage": "^1.1.8",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.16.4",
     "prettier-eslint": "^8.8.2",
     "prettier-eslint-cli": "^4.7.1",
